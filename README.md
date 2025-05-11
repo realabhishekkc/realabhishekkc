@@ -6,7 +6,7 @@
 
 ### 🌐 About Me
 
-I run a digital agency where we focus on creating clean, performance-oriented websites — with a strong emphasis on WordPress development..
+I run a digital agency where we focus on creating clean, performance-oriented websites — with a strong emphasis on WordPress development.
 
 I’m passionate about:
 - 🔧 Building smart automation systems (currently working on a stealth project 🤫)
