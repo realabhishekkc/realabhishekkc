@@ -6,7 +6,7 @@
 
 ### 🌐 About Me
 
-I’m the founder of **Webnetic Digital Solutions**, a growing digital agency focused on delivering modern, performance-driven websites — especially using **WordPress**.
+I run a digital agency where we focus on creating clean, performance-oriented websites — with a strong emphasis on WordPress development..
 
 I’m passionate about:
 - 🔧 Building smart automation systems (currently working on a stealth project 🤫)
