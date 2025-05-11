@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abhishek!
 
-🚀 Tech Enthusiast | 💼 Founder of [Webnetic Digital Solutions](#) | 🛠️ Automation Explorer
+🚀 Tech Enthusiast | 💼 Founder of a Digital Agency | 🛠️ Automation Explorer
 
 ---
 
